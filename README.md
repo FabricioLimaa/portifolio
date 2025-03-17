@@ -23,18 +23,6 @@ Descrição breve sobre o objetivo e escopo do portfólio.
 - React
 - Node.js
 
-## Contribuição
-
-Se você deseja contribuir com o projeto, siga estas etapas:
-
-Faça um fork do repositório.
-Crie uma branch com a sua feature (git checkout -b minha-feature).
-Commit suas mudanças (git commit -m 'Adiciona minha feature').
-Faça um push para a branch (git push origin minha-feature).
-Abra um Pull Request.
-Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
 ## Instalação
 
 Passos para instalar e configurar o projeto localmente:
