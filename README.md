@@ -13,7 +13,7 @@ Este repositório contém meu portfólio pessoal, onde apresento meus projetos e
 
 ## 📖 Sobre
 
-Descrição breve sobre o objetivo e escopo do portfólio. 
+Bem-vindo ao meu portfólio pessoal! Este repositório reúne alguns dos meus projetos e habilidades na área de desenvolvimento web. Aqui, você encontrará exemplos do meu trabalho, incluindo sites, aplicativos e outras soluções que desenvolvi utilizando diversas tecnologias. Sinta-se à vontade para explorar e conhecer mais sobre o que faço.
 
 ## 🛠️ Tecnologias Utilizadas
 
