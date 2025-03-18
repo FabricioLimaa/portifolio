@@ -89,11 +89,9 @@ body{
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
 }
-
-.apresentacao__imagem {
+.apresentacao__imagem{
     width: 50%;
 }
-
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
@@ -104,10 +102,20 @@ body{
     font-weight: 400;
 }
 
-@media (max-width: 1200px){
+@media (max-width: 1200px) {
+    .cabecalho{
+         padding: 10%;  
+    }
+    .cabecalho__menu{
+        justify-content: center;
+    }
     .apresentacao{
         flex-direction: column-reverse;
-        gap: 40px;
+        padding: 5%;
     }
+    .apresentacao__conteudo{
+        width: auto;
+        
+     }
     
 }
