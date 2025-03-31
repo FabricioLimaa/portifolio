@@ -42,7 +42,7 @@ npm install
 
 ## 🚀 Uso
 
-Inicie o servidor de desenvolvimento:
+Inicie o servidor de desenvolvimento::::::
 
 ```bash
 npm start
